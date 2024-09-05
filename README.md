@@ -2,19 +2,17 @@
 
 This project is a cross-platform catalogue application built using the Flutter framework. The app provides a seamless browsing experience for users to explore a collection of items or products. It supports features like search, filters, detailed item views, a shopping cart, and user authentication.
 
+
 ## Pages:
 
-Login Page:
 ![Login Page](<Screenshots/Login Page.png>)
 
-Home Page:
 ![Home Page](<Screenshots/Home Page.png>)
 
-Product Details:
 ![Product Details Page](<Screenshots/1st Product Information.png>)
 
-Cart Page:
 ![Cart Page](<Screenshots/Cart Page.png>)
+
 
 
 ## Key Features
